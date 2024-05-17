@@ -15,3 +15,5 @@ After watching som episodes of Devs I tried to find some good materials to learn
 * Got interested in this course: [The Introduction to Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms?)
 
 * This article covers Google's claim in quantum supremacy (and also has som good intro material): [Quantum Supremacy — Google Sycamore Processor](https://jonathan-hui.medium.com/quantum-supremacy-google-sycamore-processor-6f30073a17fa)
+
+* Current status as of 2024-04: [And yet quantum computing continues to progress](https://scottaaronson.blog/?p=7916) 
